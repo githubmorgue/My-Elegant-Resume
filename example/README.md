@@ -19,16 +19,16 @@
 
 ## <img src="../assets/graduation-cap-solid.svg" width="35px" style="position:relative; top:10px;"><font face="华文中宋" size=5 color=#13227a>教育背景</font>
 
-<font face="宋体" size=4>**学士** xx大学 计算机科学与技术  </font><span class="right"><font size=3>2017.09 - 2021.07</font></span>
+<font face="宋体" size=4> 南京财经大学 管理科学与工程  </font><span class="right"><font size=3>2017.09 - 2021.07</font></span>
 
-<font face="宋体" size=4>**核心课程**</font><font face="宋体" size=4> xxxxxxxxx，xxxxxxxx，xxxxxxx，xxxxxx，xxxxxxx，xxxxx等</font>
+<font face="宋体" size=4>**核心课程**</font><font face="宋体" size=4> 系统工程，运筹学，Python程序设计，统计学，管理经济学，线性代数， 概率论与数理统计 等</font>
 
-<font face="宋体" size=4>**专业课**</font> <font face="Times New Roman" size=4>**GPA**&nbsp;3.99/4.0</font>
+<font face="宋体" size=4>**专业课**</font> <font face="Times New Roman" size=4>**GPA**&nbsp;3.44/5</font>
 
 ## <img src="../assets/banshou.svg" width="27px" style="position:relative; top:7px;"><font face="华文中宋" size=5 color=#13227a>技能和语言</font>
 
-- <font face="华文中宋" size=4>**操作系统**</font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxxxxxx</font>
-- <font face="黑体" size=4>**编&nbsp;&nbsp;&nbsp; 程** </font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxxxx, xxxxx, xxxxx</font>
+- <font face="华文中宋" size=4>**操作系统**</font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;Python Java</font>
+- <font face="黑体" size=4>**编&nbsp;&nbsp;&nbsp; 胡健国 </font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxxxx, xxxxx, xxxxx</font>
 - <font face="黑体" size=4>**工&nbsp;&nbsp;&nbsp; 具** </font>      &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4> &nbsp;&nbsp;&nbsp;&nbsp;xxx, xxx, xxx, xxx</font>
 - <font face="黑体" size=4>**数据分析** </font>       &nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxx, xxx</font>
 - <font face="黑体" size=4>**自然语言**      </font>       &nbsp;&nbsp;&nbsp;<font face="宋体" size=4>&nbsp;日语<font face="Times New Roman" size=4> xxx</font> xxxxxx，xxxxxxxx</font>
