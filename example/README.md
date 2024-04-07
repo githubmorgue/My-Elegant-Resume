@@ -1,25 +1,6 @@
-<h1>
-  <span><font face="华文中宋" size=7 color=#13227a>白马湖水怪</font></span>
-  <ul>
-    <p align="right"><img src="../assets/home.svg" width="12px"> <font size=3>宇宙火星人</font></p>
-    <p align="right"><img src="../assets/rili.svg" width="12px"> &nbsp;<font size=3>1988/08/20</font></p>
-    <p align="right"><img src="../assets/phone-solid.svg" width="12px"> &nbsp;<font size=3>173-****-6844</font></p>
-    <p align="right"><img src="../assets/envelope-solid.svg" width="12px">  &nbsp;<font size=3>zhyinyi@foxmail.com</font></p>
-    <p align="right"><img src="../assets/website.svg" width="12px">&nbsp;<font size=3>https://www.pwner.cn</font></p>
-  </ul>
-   <ul>
-    </ul>
-</h1>
-
-
-
-
-
-
-
 ## <img src="../assets/graduation-cap-solid.svg" width="35px" style="position:relative; top:10px;"><font face="华文中宋" size=5 color=#13227a>教育背景</font>
 
-<font face="宋体" size=4> 南京财经大学 管理科学与工程  </font><span class="right"><font size=3>2017.09 - 2021.07</font></span>
+<font face="宋体" size=4> 南京财经大学 管理科学与工程  </font><span class="right"><font size=3>2022.09 - 2026.07</font></span>
 
 <font face="宋体" size=4>**核心课程**</font><font face="宋体" size=4> 系统工程，运筹学，Python程序设计，统计学，管理经济学，线性代数， 概率论与数理统计 等</font>
 
