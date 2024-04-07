@@ -27,15 +27,17 @@
 
 ## <img src="../assets/banshou.svg" width="27px" style="position:relative; top:7px;"><font face="华文中宋" size=5 color=#13227a>技能和语言</font>
 
-- <font face="华文中宋" size=4>**操作系统**</font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;Python Java</font>
-- <font face="黑体" size=4>**编&nbsp;&nbsp;&nbsp; 胡健国 </font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxxxx, xxxxx, xxxxx</font>
+- <font face="华文中宋" size=4>**操作系统**</font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;Python, Java</font>
+- <font face="黑体" size=4>**编&nbsp;&nbsp;&nbsp; 程**</font>       &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxxxx, xxxxx, xxxxx</font>
 - <font face="黑体" size=4>**工&nbsp;&nbsp;&nbsp; 具** </font>      &nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4> &nbsp;&nbsp;&nbsp;&nbsp;xxx, xxx, xxx, xxx</font>
 - <font face="黑体" size=4>**数据分析** </font>       &nbsp;&nbsp;&nbsp;<font face="Times New Roman" size=4>&nbsp;&nbsp;&nbsp;&nbsp;xxx, xxx</font>
-- <font face="黑体" size=4>**自然语言**      </font>       &nbsp;&nbsp;&nbsp;<font face="宋体" size=4>&nbsp;日语<font face="Times New Roman" size=4> xxx</font> xxxxxx，xxxxxxxx</font>
+- <font face="黑体" size=4>**自然语言**      </font>       &nbsp;&nbsp;&nbsp;<font face="宋体" size=4>&nbsp;中文<font face="Times New Roman" size=4> xxx</font> xxxxxx，xxxxxxxx</font>
 
 ## <img src="../assets/briefcase-solid.svg" width="23px" style="position:relative; top:3px;right:1px">&nbsp;<font face="华文中宋" size=5 color=#13227a>实习经历</font>
 
-### <font face="黑体" size=4>Microsoft，</font><font face="华文宋体" size=4 >测试开发实习生</font></font><span class="right"><font size=3>2099.06 - 2099.08</font></span>
+### <font face="黑体" size=4>Harvard, </font><font face="华文宋体" size=4 >Introduction to computer science</font></font><span class="right"><font size=3>2099.06 - 2099.08</font></span>
+
+### <font face="黑体" size=4>Harvard, </font><font face="华文宋体" size=4 >Introduction to programming with python</font></font><span class="right"><font size=3>2099.06 - 2099.08</font></span>
 
 负责xx工作，xxxxxxxxxx
 
@@ -50,23 +52,23 @@
 
 ### <font face="黑体" size=4>xxxxxxxx平台</font><font face="华文宋体" size=4 >核心开发者</font><span class="right"><font size=3>2099.06 - 2099.08</font></span>
 
-<font face="Times New Roman" size=4>*JavaScript*</font>
+<font face="Times New Roman" size=4>*Java*</font>
 
 <font face="宋体" size=4>基于xxxxxxx完成xxxxxx的设计，并负责完成xxxxxx模块</font>
 
 ---
 
-### <font face="黑体" size=4>xxxx系统，</font><font face="华文宋体" size=4 >数据库开发</font><span class="right"><font size=3>2099.08 - 2099.11</font></span>
+### <font face="黑体" size=4>xxxx系统，</font><font face="华文宋体" size=4 >数据分析</font><span class="right"><font size=3>2099.08 - 2099.11</font></span>
 
-<font face="Times New Roman" size=4>*MySQL*</font>
+<font face="Times New Roman" size=4>*Python*</font>
 
 <font face="宋体" size=4>负责对接xxxxxxxxxxx设计，并在xxxxx<font face="Times New Roman" size=4>RDS</font> </font>
 
 ---
 
-### <font face="黑体" size=4>xxxx识别系统，</font><font face="华文宋体" size=4 >核心开发者</font><span class="right"><font size=3>2099.11 - 2099.12</font></span>
+### <font face="黑体" size=4>xxxx数据库系统，</font><font face="华文宋体" size=4 >核心开发者</font><span class="right"><font size=3>2099.11 - 2099.12</font></span>
 
-<font face="Times New Roman" size=4>*Python*</font>
+<font face="Times New Roman" size=4>*MySQL*</font>
 
 <font face="宋体" size=4>基于 <font face="Times New Roman" size=4>xxxx</font> xxxxxxxx，使用 <font face="Times New Roman" size=4>xxxxxx</font> 算法实现xxxxxxxxx</font>
 
